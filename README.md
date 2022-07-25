@@ -1,1 +1,1 @@
-# nurfairuzpyhton-class
+# nurfairuzphyton-class
